@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm here ☕
 
-<!--
-**DylanPrairie541/DylanPrairie541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **DylanPrairie541**, a generalist engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on personal side projects
+- 🎨 Code is poetry
+- 🌟 Open source enthusiast
+- 🐛 Bug hunter by night
+- 👯 Looking to collaborate on open source
+
+## Tech
+
+`Gin` `tmux` `Python` `RabbitMQ` `Laravel`
+
+---
+
+_Available for hire._
